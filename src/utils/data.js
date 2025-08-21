@@ -24,37 +24,6 @@ import pp2 from "../assets/images/pp2.png";
 import pp3 from "../assets/images/pp3.png";
 import pp4 from "../assets/images/pp4.png";
 
-// export const serviceData = [
-//   {
-//     id: 1,
-//     title: "Web Development",
-//     description:
-//       "Ensure your website looks great on any device, with layouts that adapt to different screen sizes seamlessly.",
-//   },
-//   {
-//     id: 2,
-//     title: "UI/UX Design",
-//     description:
-//       "Set up user-friendly CMS solutions like WordPress or custom-built options so clients can manage content easily.",
-//   },
-//   {
-//     id: 3,
-//     title: "SEO Optimization",
-//     description:
-//       "Improve search engine rankings with keyword optimization, content strategy, and performance enhancements.",
-//   },
-//   {
-//     id: 4,
-//     title: "Digital Marketing",
-//     description:
-//       "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
-//   },
-// ];
-
-
-
-
-
 
 
 
@@ -102,36 +71,6 @@ export const serviceData = [
 
 // export const recentWorksCats = ["All", "MERN", "React", "Javascript"];
 
-// export const recentWorks = [
-//   {
-//     id: 0,
-//     catId: 1, 
-//     title: "TaskMe App",
-//     description: "Task manager app ",
-//     image: project1,
-//   },
-//   {
-//     id: 1,
-//     catId: 1,
-//     title: "Notes App",
-//     description: "notes making app with user friendly based",
-//     image: project2,
-//   },
-//   {
-//     id: 2,
-//     catId: 2, 
-//     title: "Portfolio",
-//     description: "User Portfolio with modern look",
-//     image: project3,
-//   },
-//   {
-//     id: 3,
-//     catId: 3,
-//     title: "Rest Country API",
-//     description: "rest country api that fetch data from json and make their details",
-//     image: project4,
-//   },
-// ];
 
 
 
@@ -186,26 +125,6 @@ export const recentWorks = [
 ];
 
 
-// export const experienceData = [
-//   {
-//     id: 0,
-//     year: "2022 - Present",
-//     name: "Full-Stack Development",
-//     address: "Infosys, Bangalore",
-//   },
-//   {
-//     id: 1,
-//     year: "2021 - 2022",
-//     name: "Frontend Development Internship",
-//     address: "Wipro, Hyderabad",
-//   },
-//   {
-//     id: 2,
-//     year: "2020 - 2021",
-//     name: "UI/UX Design",
-//     address: "Tata Consultancy Services (TCS), Pune",
-//   },
-// ];
 
 
 export const experienceData = [
@@ -252,45 +171,6 @@ export const educationData = [
   },
 ];
 
-// export const skillsData = [
-//   {
-//     id: 0,
-//     image: SkillImg1,
-//     title: "Figma",
-//     percentage: "90%",
-//   },
-//   {
-//     id: 1,
-//     image: SkillImg2,
-//     title: "HTML",
-//     percentage: "95%",
-//   },
-//   {
-//     id: 2,
-//     image: SkillImg3,
-//     title: "CSS",
-//     percentage: "92%",
-//   },
-//   {
-//     id: 3,
-//     image: SkillImg4,
-//     title: "React",
-//     percentage: "80%",
-//   },
-//   {
-//     id: 4,
-//     image: SkillImg5,
-//     title: "Angular",
-//     percentage: "75%",
-//   },
-
-//   {
-//     id: 5,
-//     image: SkillImg6,
-//     title: "Node js ",
-//     percentage: "85%",
-//   },
-// ];
 
 export const skillsData = [
   {
@@ -363,3 +243,175 @@ export const testimonialsData = [
     msg: "Our new website is sleek and responsive. We’ve received positive feedback from users and seen better engagement.",
   },
 ];
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// export const serviceData = [
+//   {
+//     id: 1,
+//     title: "Web Development",
+//     description:
+//       "Ensure your website looks great on any device, with layouts that adapt to different screen sizes seamlessly.",
+//   },
+//   {
+//     id: 2,
+//     title: "UI/UX Design",
+//     description:
+//       "Set up user-friendly CMS solutions like WordPress or custom-built options so clients can manage content easily.",
+//   },
+//   {
+//     id: 3,
+//     title: "SEO Optimization",
+//     description:
+//       "Improve search engine rankings with keyword optimization, content strategy, and performance enhancements.",
+//   },
+//   {
+//     id: 4,
+//     title: "Digital Marketing",
+//     description:
+//       "Refresh outdated websites with modern, appealing designs that align with current brand goals and user expectations.",
+//   },
+// ];
+
+
+
+
+
+
+
+
+
+// export const recentWorks = [
+//   {
+//     id: 0,
+//     catId: 1, 
+//     title: "TaskMe App",
+//     description: "Task manager app ",
+//     image: project1,
+//   },
+//   {
+//     id: 1,
+//     catId: 1,
+//     title: "Notes App",
+//     description: "notes making app with user friendly based",
+//     image: project2,
+//   },
+//   {
+//     id: 2,
+//     catId: 2, 
+//     title: "Portfolio",
+//     description: "User Portfolio with modern look",
+//     image: project3,
+//   },
+//   {
+//     id: 3,
+//     catId: 3,
+//     title: "Rest Country API",
+//     description: "rest country api that fetch data from json and make their details",
+//     image: project4,
+//   },
+// ];
+
+
+
+
+
+
+
+
+
+// export const experienceData = [
+//   {
+//     id: 0,
+//     year: "2022 - Present",
+//     name: "Full-Stack Development",
+//     address: "Infosys, Bangalore",
+//   },
+//   {
+//     id: 1,
+//     year: "2021 - 2022",
+//     name: "Frontend Development Internship",
+//     address: "Wipro, Hyderabad",
+//   },
+//   {
+//     id: 2,
+//     year: "2020 - 2021",
+//     name: "UI/UX Design",
+//     address: "Tata Consultancy Services (TCS), Pune",
+//   },
+// ];
+
+
+
+
+
+// export const skillsData = [
+//   {
+//     id: 0,
+//     image: SkillImg1,
+//     title: "Figma",
+//     percentage: "90%",
+//   },
+//   {
+//     id: 1,
+//     image: SkillImg2,
+//     title: "HTML",
+//     percentage: "95%",
+//   },
+//   {
+//     id: 2,
+//     image: SkillImg3,
+//     title: "CSS",
+//     percentage: "92%",
+//   },
+//   {
+//     id: 3,
+//     image: SkillImg4,
+//     title: "React",
+//     percentage: "80%",
+//   },
+//   {
+//     id: 4,
+//     image: SkillImg5,
+//     title: "Angular",
+//     percentage: "75%",
+//   },
+
+//   {
+//     id: 5,
+//     image: SkillImg6,
+//     title: "Node js ",
+//     percentage: "85%",
+//   },
+// ];
